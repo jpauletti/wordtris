@@ -33,3 +33,4 @@ After gameover, you can view your personal best scores and best words played, as
     - run "npm install", then
     - run "npm start"
 
+Play the game [HERE.](https://wordtris.herokuapp.com/)
